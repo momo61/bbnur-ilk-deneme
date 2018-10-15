@@ -1,2 +1,2 @@
 # bbnur-ilk-deneme
-Deneme deneme
+Mein ertses Projekt auf GitHub
