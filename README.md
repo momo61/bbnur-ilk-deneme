@@ -1,3 +1,3 @@
-# bbnur-ilk-deneme
+# first-Try
 Mein ertses Projekt auf GitHub
 mittels JavaEE
